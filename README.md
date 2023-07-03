@@ -12,7 +12,15 @@ Analyze the data and generate insights that could help Netflix in deciding which
 - Pandas
 - Matplotlib
 - Seaborn
-
+  
+## Business Insights and Recommendations:
+1. Netflix is currently serving mostly Mature audiences or Children with parental guidance (around 80% of content on Netflix). It has scope to cater to other audiences as well such as family men, Senior citizens, kids of various ages, etc.
+2. It is observed that shorter-duration content is on the rise in the last 10 years. (duration 75 to 150 minutes and seasons 1 to 3) . This can be considered while production of new content on Netflix.
+3. Netflix has the majority of content which is released after the year 2000. It is observed that content older than the year 2000 is very scarce on Netflix. Senior Citizens could be the target audience for such content, which is almost missing currently.
+4. Very limited genres are focussed in most of countries except the US. It seems the currently available genres suit best for the US and a few countries but maximum countries need some more genres which are highly popular in the region. eg. Indian Mythological content is highly popular in India. We can create more country-specific genres and It might also be liked across the world just like Japanese Anime.
+5. Country-specific insights - The content needs to be targetting the demographic of any country. Netflix can produce a higher number of content in the particular rating as per the demographic of the country. Eg. A country like India, which is highly populous, has maximum content available only in three ratings TV-MA, TV-14, and TV-PG. It is unlikely to serve the below 14 age and above 35 year age group with only these ratings being available.
+6.  Japan has only 3 ratings of content largely served - TV-MA, TV-14, and TV-PG. Japan has a high population of age above 60, and this can be served by increasing the content suitable for this age group.
+7.  Maximum content of Netflix which is around 75%, is coming from the top 10 countries. The United States is highest contributor, followed by India and the United Kingdom. Rest of the world only contributes 25% of the content. More countries with suitable genres and ratings can be focussed on in the future to grow the business.
 
 
 
